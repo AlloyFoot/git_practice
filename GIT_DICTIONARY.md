@@ -2,19 +2,19 @@
 
 ## SETUP
 - git init
-creates an empty Git repo
+\ncreates an empty Git repo
 - git config
-used to get and set config variables that control how Git looks, behaves, and operates.
+\nused to get and set config variables that control how Git looks, behaves, and operates.
 
 ## MAKING COMMITS
 - git add
-moves changes from working directory to Git staging area
+\nmoves changes from working directory to Git staging area
 - git add -u
-does "git add" but for the entire repo - NOT NEW FILES
+\ndoes "git add" but for the entire repo - NOT NEW FILES
 - git add .
-does "git add" but for the entire repo - INCLIDING NEW FILES
+\ndoes "git add" but for the entire repo - INCLIDING NEW FILES
 - git commit
-captures a snapshot of project's currently stages changes to local repo
+\ncaptures a snapshot of project's currently stages changes to local repo
 uses Vim/default test editor to create message
 - git commit -m "..."
 does "git commit" but doesn't open Vim for the message
