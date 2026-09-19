@@ -44,7 +44,7 @@ uploads local repo to a remote repo
 downloads changes from a remote repo and integrates them into your local branch
 - git fetch<br>
 downloads commits, files, and reference from a remote repo to your local machine
-does not merge or integrade into your active working files
+does not merge or integrade into your active working files<br>
 Run git status to see how many commits your local branch is behind the remote version.<br>
 Use git diff main origin/main to view the exact code changes line-by-line before accepting them.<br>
 If you like what you see and are ready to update your files, you can manually run git merge origin/main to safely merge the changes.
