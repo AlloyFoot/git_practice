@@ -3,3 +3,4 @@ Hello, Git!
 lets relax and enjoy today.
 another test
 hello from my feature branch
+hi
